@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rutvik Saptarshi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "First year CS Masters Student @ Brown University"
   location         : "Providence, RI"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "echo @cs.brown.edu|sed 's/^/rutvik_saptarshi/'"
   researchgate     :
   uri              :
   bitbucket        :
