@@ -45,6 +45,11 @@ a{
 }
 
 .section-2 h3{
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.first-h3 {
     margin-top: 0px;
 }
 
