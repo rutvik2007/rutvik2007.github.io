@@ -19,7 +19,7 @@ body{
 
 }
 
-h2, h3, .white{
+h2, .white{
     color: #fff;
 }
 
@@ -48,6 +48,7 @@ a{
     margin-top: 10px;
     margin-bottom: 10px;
     font-style: italic;
+    color: #bbbbbb
 }
 
 .section-1 a{
